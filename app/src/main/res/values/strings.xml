@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="submit_label">Submit</string>
+    <string name="enter_any_text_label">Enter any text you want!</string>
+    <string name="tv_label">Nothing yet!</string>
+    <string name="hint_label">This is a hint</string>
+    <string name="edit_item_below_label">Edit Name:</string>
+    <string name="save_label">Save</string>
+    <string name="default_hint_label">Enter new item name</string>
+</resources>
